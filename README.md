@@ -9,7 +9,7 @@ features of Java 17 and JavaFX framework.
 
 # Supported Actions
 1) Choose a shape from the left side-bar.
-2) Choose a colour from from the right side-bar.
+2) Choose a colour from the right side-bar.
 3) Create a new shape by click and drag of the left-mouse button.
 4) Select a shape by left click.
 5) Resize a selected shape by left click and drag on the resize handle. 
